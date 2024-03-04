@@ -1,4 +1,8 @@
 # Stereo Depth Estimation
+
+## Overview
+The code estimates the depth by creating a disparity map using the frames of a scene observed by a stereo-camera setup. This is done by correcting the epi-lines.
+
 ![image1](outputs/page1.jpg)
 ![image2](outputs/page2.jpg)
 ![image3](outputs/page3.jpg)
